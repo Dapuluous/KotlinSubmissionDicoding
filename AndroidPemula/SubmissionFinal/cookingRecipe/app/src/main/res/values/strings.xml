@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cooking Recipe</string>
+    <string name="recipe_name">Nama Resep</string>
+    <string name="recipe_detail">Detail Resep</string>
+    <string name="recipe_author_prefix">By</string>
+    <string name="recipe_author">Author</string>
+    <string name="about_name">Muhammad Dhaffa Mahendra</string>
+    <string name="about_email">mdhaffamahendra@gmail.com</string>
+</resources>

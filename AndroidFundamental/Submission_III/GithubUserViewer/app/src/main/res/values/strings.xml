@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github User Viewer</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="profil_username">Insert Username Here</string>
+    <string name="profil_name">Insert Nama User</string>
+    <string name="profil_location">Lokasi User</string>
+    <string name="profil_company">Company User</string>
+    <string name="share">Share</string>
+    <string name="delete_favorite">Dihapus Dari Favorit</string>
+    <string name="add_favorite">Ditambahkan Ke Favorit</string>
+</resources>
